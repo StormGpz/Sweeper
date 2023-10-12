@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4a31b0dc-1d2a-4fcf-8614-18dcb7cf1b9a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "涂鸦扫雷-输了": {
+      "ver": "1.0.6",
+      "uuid": "2f8235e2-3d1b-4b04-9d1f-be1a9bdc9531",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4a31b0dc-1d2a-4fcf-8614-18dcb7cf1b9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

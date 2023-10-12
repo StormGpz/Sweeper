@@ -1,0 +1,2 @@
+# MinerSweeper
+Lucky game
